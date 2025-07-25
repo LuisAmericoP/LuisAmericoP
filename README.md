@@ -32,6 +32,7 @@
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab"/>
 </p>
 
+
 ### 🗄️ Banco de Dados:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
