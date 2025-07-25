@@ -70,10 +70,10 @@ Confira alguns dos projetos que desenvolvi:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-américo-b13500300" target="_blank">
-    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/linkedin.png" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/linkedin.png" width="40px" alt="LinkedIn">
   </a>
   <a href="mailto:luis.americo.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/gmail.png" alt="Gmail">
+    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/gmail.png" width="40px" alt="Gmail">
   </a>
 </p>
 
