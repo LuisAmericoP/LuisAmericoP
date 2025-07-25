@@ -11,15 +11,14 @@
 ### 💻 Minhas Habilidades Técnicas
 
 Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
-
+<h1 align="center"> 🌐 Back-End</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
 </p>
 
-#### 🌐 Back-End
-
+<h1 align="center">🖥️ Front-End</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3" alt="CSS3"/>
@@ -27,8 +26,7 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" alt="Bootstrap"/>
 </p>
 
-#### 🖥️ Front-End
-
+<h1 alingn="center">🧰 Ferramentas</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub" alt="GitHub"/>
@@ -37,14 +35,12 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab" alt="Google Colab"/>
 </p>
 
-#### 🧰 Ferramentas
-
+<h1 alingn="center">🗄️ Banco de Dados</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL" alt="PostgreSQL"/>
   </p>
 
-#### 🗄️ Banco de Dados
 
 ---
 
