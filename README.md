@@ -32,7 +32,7 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" title="Apache/XAMPP" alt="Apache/XAMPP"/>
+  <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="40px" title="XAMPP" alt="XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab" alt="Google Colab"/>
 </p>
 
