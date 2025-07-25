@@ -26,7 +26,7 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" alt="Bootstrap"/>
 </p>
 
-<h1 alingn="center">🧰 Ferramentas</h1>
+<h1 align="center">🧰 Ferramentas</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub" alt="GitHub"/>
@@ -35,7 +35,7 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab" alt="Google Colab"/>
 </p>
 
-<h1 alingn="center">🗄️ Banco de Dados</h1>
+<h1 align="center">🗄️ Banco de Dados</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL" alt="PostgreSQL"/>
