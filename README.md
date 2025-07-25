@@ -14,11 +14,9 @@
 
 <p align="center">🌐 Back-End</p>
 <p align="center">
-  <a href="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" margin-right= "20px" title="PHP" alt="PHP"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" margin-right= "20px" title="Python" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" margin-right= "20px" title="PHP" alt="PHP"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" margin-right= "20px" title="Python" alt="Python"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/></a>
 </p>
 
 <p align="center">🖥️ Front-End</p>
