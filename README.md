@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="40px" title="XAMPP"/>
+  <img src="https://img.icons8.com/color/48/000000/xampp.png" width="40px" title="XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab"/>
 </p>
 
