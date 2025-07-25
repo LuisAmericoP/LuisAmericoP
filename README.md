@@ -21,24 +21,24 @@
 
 <p align="center">🖥️ Front-End</p>
 <p align="center">
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" margin-right= "20px" title="HTML5" alt="HTML5"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" margin-right= "20px" title="CSS3" alt="CSS3"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" margin-right= "20px" title="JavaScript" alt="JavaScript"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" title="HTML5" alt="HTML5"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" title="CSS3" alt="CSS3"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" title="Bootstrap" alt="Bootstrap"/></a>
 </p>
 
 <p align="center">🧰 Ferramentas</p>
 <p align="center">
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" margin-right= "20px" title="Git" alt="Git"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" margin-right= "20px" title="GitHub" alt="GitHub"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" margin-right= "20px" title="VSCode" alt="VSCode"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="60px" margin-right= "20px" title="XAMPP" alt="XAMPP"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" title="Git" alt="Git"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" title="GitHub" alt="GitHub"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" title="VSCode" alt="VSCode"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="60px" title="XAMPP" alt="XAMPP"/></a>
   <a href=""><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="60px" title="Google Colab" alt="Google Colab"/></a>
 </p>
 
 <p align="center">🗄️ Banco de Dados</p>
 <p align="center">
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" margin-right= "20px" title="MySQL" alt="MySQL"/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" title="MySQL" alt="MySQL"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/sql.png" width="60px" title="SQL" alt="SQL"/></a>
 </p>
 
@@ -69,7 +69,7 @@ Confira alguns dos projetos que desenvolvi:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-américo-b13500300" target="_blank">
-    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/linkedin.png" width="60px" margin-right= "50px" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/linkedin.png" width="60px" alt="LinkedIn">
   </a>
   <a href="mailto:luis.americo.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/gmail.png" width="60px" alt="Gmail">
