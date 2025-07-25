@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Minhas Habilidades Técnicas
+<h1 align="center"> 💻 Minhas Habilidades Técnicas </h1>
 
 Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
 <h1 align="center"> 🌐 Back-End</h1>
