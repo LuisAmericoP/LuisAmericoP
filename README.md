@@ -32,14 +32,14 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode" alt="VSCode"/>
-  <img src="https://img.icons8.com/color/48/000000/xampp.png" width="40px" title="XAMPP" alt="XAMPP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" title="XAMPP" alt="XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab" alt="Google Colab"/>
 </p>
 
 #### 🗄️ Banco de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" title="SQL" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="40px" title="SQL" alt="SQL"/>
 </p>
 
 ---
@@ -59,18 +59,22 @@ Estou sempre em busca de aprimoramento e novos conhecimentos. Atualmente, meus e
 
 Confira alguns dos projetos que desenvolvi:
 
-* 🔐 **[Gerador de Token com Expiração](https://github.com/LuisAmericoP/gerador-token)** - Um sistema para gerar tokens de segurança com tempo de expiração definido.
-* 📘 **[Estudo em Python](https://github.com/LuisAmericoP/Estudo-Python)** - Repositório dedicado aos meus estudos e exercícios práticos em Python.
-* 🎨 **[TI Romântico (HTML criativo)](https://github.com/LuisAmericoP/TI-Romantico)** - Um projeto divertido explorando a criatividade com HTML.
+* 🔐 **<a href="https://github.com/LuisAmericoP/gerador-token">Gerador de Token com Expiração</a>** - Um sistema para gerar tokens de segurança com tempo de expiração definido.
+* 📘 **<a href="https://github.com/LuisAmericoP/Estudo-Python">Estudo em Python</a>** - Repositório dedicado aos meus estudos e exercícios práticos em Python.
+* 🎨 **<a href="https://github.com/LuisAmericoP/TI-Romantico">TI Romântico (HTML criativo)</a>** - Um projeto divertido explorando a criatividade com HTML.
 
 ---
 
-### 📬 Conecte-se Comigo
+### 📫 Conecte-se Comigo
 
-Fique à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-américo-b13500300)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.americo.dev@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-américo-b13500300" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:luis.americo.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ---
 
