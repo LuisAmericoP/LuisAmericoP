@@ -1,4 +1,4 @@
-### Olá, eu sou o Luis Américo! 👋
+<h1 align="center"><strong>👋 Olá, eu sou o Luis Américo!</strong></h1>
 
 <p align="center">
   🎓 Técnico em Administração e Informática pela ETEC Prof. Milton Gazzetti <br>
@@ -12,35 +12,39 @@
 
 Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
 
-#### 🌐 Back-End
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
 </p>
 
-#### 🖥️ Front-End
-<p>
+#### 🌐 Back-End
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" alt="Bootstrap"/>
 </p>
 
-#### 🧰 Ferramentas
-<p>
+#### 🖥️ Front-End
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" title="GitHub" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" title="XAMPP" alt="XAMPP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40px" title="Apache/XAMPP" alt="Apache/XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="40px" title="Google Colab" alt="Google Colab"/>
 </p>
 
-#### 🗄️ Banco de Dados
-<p>
+#### 🧰 Ferramentas
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" width="40px" title="SQL" alt="SQL"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL" alt="PostgreSQL"/>
+  </p>
+
+#### 🗄️ Banco de Dados
 
 ---
 
@@ -86,3 +90,5 @@ Confira alguns dos projetos que desenvolvi:
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAmericoP&show_icons=true&theme=dark" alt="Luis Américo GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAmericoP&theme=dark" alt="Luis Américo GitHub Streak" />
 </p>
+<br>
+<p align="center"><sub>Última atualização em 25 de julho de 2025</sub></p>
