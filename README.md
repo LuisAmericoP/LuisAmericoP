@@ -11,6 +11,7 @@
 <h1 align="center"> 💻 Minhas Habilidades Técnicas </h1>
 
 Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
+
 <h1 align="center"> 🌐 Back-End</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP" alt="PHP"/>
