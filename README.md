@@ -39,7 +39,7 @@ Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
 <h1 align="center">🗄️ Banco de Dados</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" alt="MySQL"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://github.com/LuisAmericoP/my_images/blob/main/sql.png](https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/sql.png )" width="40px" title="SQL" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/sql.png" width="40px" title="SQL" alt="SQL"/>
   </p>
 
 
