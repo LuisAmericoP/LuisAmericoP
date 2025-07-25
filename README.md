@@ -1,5 +1,4 @@
 <h1 align="center"><strong>👋 Olá, eu sou o Luis Américo!</strong></h1>
-
 <p align="center">
   🎓 Técnico em Administração e Informática pela ETEC Prof. Milton Gazzetti <br>
   💻 Focado em Desenvolvimento Web e Back-End <br>
