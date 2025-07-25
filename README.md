@@ -12,7 +12,7 @@
 
 <p align="center">Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.</p>
 
-#### 🌐 Back-End
+<p align="center">🌐 Back-End</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" style="margin-right: 15px;" title="PHP" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" style="margin-right: 15px;" title="Python" alt="Python"/>
