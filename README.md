@@ -14,7 +14,7 @@
 
 <p align="center">🌐 Back-End</p>
 <p align="center">
-  <a href="https://www.google.com" style="pointer-events: none; cursor: default;">
+  <a href="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" margin-right= "20px" title="PHP" alt="PHP"/>
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" margin-right= "20px" title="Python" alt="Python"/>
