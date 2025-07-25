@@ -15,23 +15,23 @@
 <p align="center">🌐 Back-End</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" margin-right= "20px" title="PHP" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" style="margin-right: 20px;" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" margin-right= "20px" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/>
 </p>
 
 <p align="center">🖥️ Front-End</p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" style="margin-right: 20px;" title="HTML5" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" style="margin-right: 20px;" title="CSS3" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" style="margin-right: 20px;" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" margin-right= "20px" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" margin-right= "20px" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" margin-right= "20px" title="JavaScript" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" title="Bootstrap" alt="Bootstrap"/>
 </p>
 
 <p align="center">🧰 Ferramentas</p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" style="margin-right: 20px;" title="Git" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin-right: 20px;" title="GitHub" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" style="margin-right: 20px;" title="VSCode" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" margin-right= "20px" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" margin-right= "20px" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" margin-right= "20px" title="VSCode" alt="VSCode"/>
   <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="60px" style="margin-right: 20px;" title="XAMPP" alt="XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="60px" title="Google Colab" alt="Google Colab"/>
 </p>
