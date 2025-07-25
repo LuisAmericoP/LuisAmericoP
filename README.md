@@ -1,4 +1,4 @@
-<p align="center" font size = "7"><strong>👋 Olá, eu sou o Luis Américo!</strong></p>
+<p align="center" styly = 'font-size = "7"'><strong>👋 Olá, eu sou o Luis Américo!</strong></p>
 <p align="center">
   🎓 Técnico em Administração e Informática pela ETEC Prof. Milton Gazzetti <br>
   💻 Focado em Desenvolvimento Web e Back-End <br>
