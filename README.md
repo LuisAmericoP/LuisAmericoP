@@ -8,37 +8,37 @@
 
 ---
 
-<p align="center">💻 Minhas Habilidades Técnicas</p>
+<h2 align="center">💻 Minhas Habilidades Técnicas</h2>
 
 <p align="center">Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.</p>
 
-<h3 align="center">🌐 Back-End</h3>
+#### 🌐 Back-End
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" title="PHP" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px" style="margin-right: 15px;" title="PHP" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" style="margin-right: 15px;" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/>
 </p>
 
-<p align="center">🖥️ Front-End</p>
+#### 🖥️ Front-End
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" title="HTML5" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" title="CSS3" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" title="JavaScript" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" style="margin-right: 15px;" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" style="margin-right: 15px;" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" style="margin-right: 15px;" title="JavaScript" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60px" title="Bootstrap" alt="Bootstrap"/>
 </p>
 
-<p align="center">🧰 Ferramentas</p>
+#### 🧰 Ferramentas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" title="Git" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" title="GitHub" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" title="VSCode" alt="VSCode"/>
-  <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="60px" title="XAMPP" alt="XAMPP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" style="margin-right: 15px;" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" style="margin-right: 15px;" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" style="margin-right: 15px;" title="VSCode" alt="VSCode"/>
+  <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/xampp.png" width="60px" style="margin-right: 15px;" title="XAMPP" alt="XAMPP"/>
   <img src="https://img.icons8.com/color/48/000000/google-colab.png" width="60px" title="Google Colab" alt="Google Colab"/>
 </p>
 
-<p align="center">🗄️ Banco de Dados</p>
+#### 🗄️ Banco de Dados
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" style="margin-right: 15px;" title="MySQL" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/sql.png" width="60px" title="SQL" alt="SQL"/>
 </p>
 
@@ -65,10 +65,10 @@ Confira alguns dos projetos que desenvolvi:
 
 ---
 
-<p align="center">📫 Conecte-se Comigo</p>
+<h2 align="center">📫 Conecte-se Comigo</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-américo-b13500300" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-américo-b13500300" target="_blank" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/LuisAmericoP/my_images/main/assets/images/linkedin.png" width="60px" alt="LinkedIn">
   </a>
   <a href="mailto:luis.americo.dev@gmail.com" target="_blank">
