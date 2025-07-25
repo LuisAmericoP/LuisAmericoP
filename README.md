@@ -10,7 +10,7 @@
 
 <h1 align="center"> 💻 Minhas Habilidades Técnicas </h1>
 
-Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.
+<p align="center">Este é um resumo das tecnologias e ferramentas com as quais eu trabalho.</p>
 
 <h1 align="center"> 🌐 Back-End</h1>
 <p align="center">
