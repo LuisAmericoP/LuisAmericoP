@@ -84,7 +84,6 @@ Confira alguns dos projetos que desenvolvi:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisAmericoP&show_icons=true&theme=dark" alt="Luis Américo GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisAmericoP&theme=dark" alt="Luis Américo GitHub Streak" />
 </p>
 <br>
 <p align="center"><sub>Última atualização em 25 de julho de 2025</sub></p>
